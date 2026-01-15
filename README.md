@@ -31,7 +31,7 @@ const matadeen = {
     pronouns: "He" | "Him",
     location: "India 🇮🇳",
     education: "BTech Student 🎓",
-    code: ["Python", "JavaScript", "C++", "Java"],
+    code: ["Python", "JavaScript", "C++", "C"],
     askMeAbout: ["Web Dev", "Tech", "Problem Solving", "Algorithms"],
     technologies: {
         frontEnd: {
@@ -67,7 +67,6 @@ const matadeen = {
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=101010"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black&labelColor=101010"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010"/>
 </p>
@@ -280,17 +279,17 @@ const matadeen = {
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100"/>
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"/>
 <br/><b>🚀 Fast Learner</b>
 <br/><i>Quickly adapting to new technologies</i>
 </td>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="100"/>
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100"/>
 <br/><b>💡 Problem Solver</b>
 <br/><i>Creative solutions to complex challenges</i>
 </td>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/216121919-60befa4d-c9db-426d-a3f9-780c44b61f0f.png" width="100"/>
+<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100"/>
 <br/><b>🤝 Team Player</b>
 <br/><i>Collaboration makes us better</i>
 </td>
