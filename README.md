@@ -4,12 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=180&section=header&text=MATADEEN%20YADAV&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20Code%20Wizard&descAlignY=58&descAlign=50"/>
 
 <!-- Animated 3D Rotating Text -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%9A%80+Building+Innovative+Solutions;%F0%9F%92%BB+Python+%7C+JavaScript+%7C+React;%F0%9F%94%A5+Open+Source+Enthusiast;%E2%9A%A1+Turning+Coffee+into+Code!" alt="Typing Animation" />
-
-<br/>
-
-<!-- Animated GIF Banner -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=120&lines=%F0%9F%9A%80+Building+Innovative+Solutions;%F0%9F%92%BB+Python+%7C+JavaScript+%7C+React;%F0%9F%94%A5+Open+Source+Enthusiast;%E2%9A%A1+Turning+Coffee+into+Code!" alt="Typing Animation" />
 
 </div>
 
@@ -18,13 +13,17 @@
 <!-- Animated Horizontal Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+<br/>
+
 <div align="center">
 
 ## 🎭 WHO AM I? 
 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+
 </div>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="380" alt="Coding GIF"/>
+<br/>
 
 ```javascript
 const matadeen = {
@@ -51,7 +50,7 @@ const matadeen = {
 };
 ```
 
-<br clear="right"/>
+<br/>
 
 <div align="center">
 
