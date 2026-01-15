@@ -1,320 +1,350 @@
 <div align="center">
 
-<!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF006E&center=true&vCenter=true&width=940&lines=👋+Hey%2C+I'm+Matadeen+Yadav!;🚀+Full+Stack+Developer+%7C+Problem+Solver;💻+Building+Cool+Stuff+with+Code!;🎯+Always+Learning%2C+Always+Growing!" alt="Typing SVG" /></a>
+<!-- Animated Wave Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=180&section=header&text=MATADEEN%20YADAV&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20Code%20Wizard&descAlignY=58&descAlign=50"/>
 
-<!-- Animated Snake eating contributions -->
-![snake gif](https://github.com/MatadeenYadav26/MatadeenYadav26/blob/output/github-contribution-grid-snake-dark.svg)
+<!-- Animated 3D Rotating Text -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%9A%80+Building+Innovative+Solutions;%F0%9F%92%BB+Python+%7C+JavaScript+%7C+React;%F0%9F%94%A5+Open+Source+Enthusiast;%E2%9A%A1+Turning+Coffee+into+Code!" alt="Typing Animation" />
+
+<br/>
+
+<!-- Animated GIF Banner -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
 </div>
 
----
+<br/>
+
+<!-- Animated Horizontal Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
 
-## 🔥 About Me - The Code Wizard 🧙‍♂️
+## 🎭 WHO AM I? 
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="380" alt="Coding GIF"/>
 
-```python
-class MatadeenYadav:
-    def __init__(self):
-        self.username = "MatadeenYadav26"
-        self.role = "Full Stack Developer"
-        self.location = "India 🇮🇳"
-        self.education = "BTech Student"
-        self.current_focus = "Building Amazing Projects"
-        self.fun_fact = "I debug in my dreams! 💭"
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something epic together!")
-
-me = MatadeenYadav()
-me.say_hi()
+```javascript
+const matadeen = {
+    pronouns: "He" | "Him",
+    location: "India 🇮🇳",
+    education: "BTech Student 🎓",
+    code: ["Python", "JavaScript", "C++", "Java"],
+    askMeAbout: ["Web Dev", "Tech", "Problem Solving", "Algorithms"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Tailwind", "Bootstrap", "Material UI"]
+        },
+        backEnd: {
+            python: ["Flask", "Django"],
+            js: ["Node.js", "Express"]
+        },
+        databases: ["MySQL", "MongoDB", "PostgreSQL"],
+        devOps: ["Docker", "Git", "GitHub Actions"],
+        tools: ["VS Code", "Postman", "Figma"]
+    },
+    currentFocus: "Building Full Stack Applications 🚀",
+    funFact: "I debug faster than I eat! 🍕💻"
+};
 ```
 
 <br clear="right"/>
 
----
-
 <div align="center">
 
-## 💻 My Coding Arsenal 
+<!-- Animated Line Break -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-### Languages I Speak Fluently
-<img src="https://skillicons.dev/icons?i=python,js,html,css,c,cpp,java,mysql&perline=8" />
+## 🛠️ TECH STACK ARSENAL
 
-### Tools & Frameworks
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,nodejs,react,tailwind,bootstrap&perline=8" />
+### 💻 Languages
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=101010"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=101010"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black&labelColor=101010"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010"/>
+</p>
 
-</div>
+### 🚀 Frameworks & Libraries
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=101010"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=101010"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=101010"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=101010"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=101010"/>
+</p>
 
----
+### 🛠️ Tools & Platforms
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=101010"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=101010"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010"/>
+</p>
 
-<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📊 GitHub Stats That'll Blow Your Mind 🤯
+## 📊 INSANE GITHUB STATS
 
-<!-- Animated stats with custom theme -->
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MatadeenYadav26&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&icon_color=00D9FF&text_color=FFFFFF&ring_color=FF006E" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MatadeenYadav26&theme=radical&hide_border=true&background=0D1117&stroke=FF006E&ring=00D9FF&fire=FF006E&currStreakLabel=00D9FF" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MatadeenYadav26&custom_title=Matadeen's%20Contribution%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" width="100%"/>
 
-<!-- Animated Language Stats with Donut Chart -->
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatadeenYadav26&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&text_color=00D9FF&langs_count=8" />
+<br/>
 
-<!-- Activity Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MatadeenYadav26&bg_color=0d1117&color=00d9ff&line=ff006e&point=ffffff&area=true&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🎨 Featured Projects with Live Previews 🚀
-
-</div>
-
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<td width="50%" align="center">
-
-### 🐍 Object Oriented Programming
-[![OOPs Preview](https://img.shields.io/badge/🔴_LIVE_DEMO-Click_Here-FF006E?style=for-the-badge&logo=github)](https://matadeenyadav26.github.io/OOPs/)
-  
-**Python OOP Concepts in Action**  
-Advanced Python programming with classes, inheritance, polymorphism & more!
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-Mastery-brightgreen?style=flat-square)
-
-[📂 View Code](https://github.com/MatadeenYadav26/OOPs)
-
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=MatadeenYadav26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_radius=10" width="100%"/>
 </td>
-<td width="50%" align="center">
-
-### 📝 Student Registration System
-[![Student System Preview](https://img.shields.io/badge/🔴_LIVE_DEMO-Click_Here-FF006E?style=for-the-badge&logo=github)](https://matadeenyadav26.github.io/Student_Registration_System/)
-  
-**Complete Registration Platform**  
-Full-featured student management system with clean UI/UX design!
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![System](https://img.shields.io/badge/Management-System-orange?style=flat-square)
-
-[📂 View Code](https://github.com/MatadeenYadav26/Student_Registration_System)
-
+<td align="center" width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MatadeenYadav26&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&border_radius=10" width="100%"/>
 </td>
 </tr>
-
 <tr>
-<td width="50%" align="center">
-
-### 📦 Modules & Packages
-[![Modules Preview](https://img.shields.io/badge/🔴_LIVE_DEMO-Click_Here-FF006E?style=for-the-badge&logo=github)](https://matadeenyadav26.github.io/Modules_and_Packages/)
-  
-**Python Package Architecture**  
-Deep dive into Python's modular programming structure!
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Modules](https://img.shields.io/badge/Modules-Expert-yellow?style=flat-square)
-
-[📂 View Code](https://github.com/MatadeenYadav26/Modules_and_Packages)
-
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatadeenYadav26&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8&border_radius=10" width="100%"/>
 </td>
-<td width="50%" align="center">
-
-### 📁 File & Folder Manager
-[![File Manager Preview](https://img.shields.io/badge/🔴_LIVE_DEMO-Click_Here-FF006E?style=for-the-badge&logo=github)](https://matadeenyadav26.github.io/File_Folder_Handling_Project/)
-  
-**Smart File Management**  
-Automated file handling with Python's OS module!
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-Pro-blue?style=flat-square)
-
-[📂 View Code](https://github.com/MatadeenYadav26/File_Folder_Handling_Project)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-
-### ⚠️ Exception Handling Master
-[![Exception Preview](https://img.shields.io/badge/🔴_LIVE_DEMO-Click_Here-FF006E?style=for-the-badge&logo=github)](https://matadeenyadav26.github.io/exception_and_file_handling.py/)
-  
-**Error Handling Like a Pro**  
-Complete guide to Python exception handling & file operations!
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Error Handling](https://img.shields.io/badge/Error-Handler-red?style=flat-square)
-
-[📂 View Code](https://github.com/MatadeenYadav26/exception_and_file_handling.py)
-
-</td>
-<td width="50%" align="center">
-
-### 🚀 JavaScript Fundamentals
-[![JS Preview](https://img.shields.io/badge/🔴_LIVE_DEMO-Click_Here-FF006E?style=for-the-badge&logo=github)](https://matadeenyadav26.github.io/Basics-of-javascript/)
-  
-**JavaScript From Scratch**  
-Learn JS basics with interactive examples and modern ES6+ features!
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![ES6](https://img.shields.io/badge/ES6+-Modern-green?style=flat-square)
-
-[📂 View Code](https://github.com/MatadeenYadav26/Basics-of-javascript)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-
-### 🎯 JavaScript Intro
-[![JS Intro Preview](https://img.shields.io/badge/🔴_LIVE_DEMO-Click_Here-FF006E?style=for-the-badge&logo=github)](https://matadeenyadav26.github.io/Intro_to_JS/)
-  
-**Getting Started with JS**  
-Beginner-friendly JavaScript tutorial with hands-on examples!
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tutorial](https://img.shields.io/badge/Tutorial-Beginner-lightblue?style=flat-square)
-
-[📂 View Code](https://github.com/MatadeenYadav26/Intro_to_JS)
-
-</td>
-<td width="50%" align="center">
-
-### 🌟 More Projects Coming Soon!
-[![Coming Soon](https://img.shields.io/badge/🔮_STAY_TUNED-More_Epic_Stuff-00D9FF?style=for-the-badge&logo=github)](https://github.com/MatadeenYadav26?tab=repositories)
-  
-**The Future is Bright**  
-Working on more awesome projects! Stay tuned for updates!
-
-![Innovation](https://img.shields.io/badge/Innovation-100%25-purple?style=flat-square)
-![Creativity](https://img.shields.io/badge/Creativity-Unlimited-pink?style=flat-square)
-
-[🔍 Explore All](https://github.com/MatadeenYadav26?tab=repositories)
-
+<td align="center" width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MatadeenYadav26&theme=tokyonight&utcOffset=5.5" width="100%"/>
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=MatadeenYadav26&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=8&rank=-C,-?" width="100%"/>
 
-## 🎨 What Makes Me Unique? 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-### 🚀 Problem Solver | 💡 Creative Thinker | 🎯 Detail-Oriented
+## 🎨 LIVE PROJECT SHOWCASE
 
 </div>
 
-<table align="center">
+<!-- Project 1 -->
+<details open>
+<summary><b>🐍 Object Oriented Programming in Python</b></summary>
+<br/>
+<div align="center">
+<a href="https://matadeenyadav26.github.io/OOPs/">
+<img src="https://img.shields.io/badge/🔴_LIVE_PREVIEW-Click_Here-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<br/><br/>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<br/>
+<p><b>Master Python OOP Concepts:</b> Classes, Inheritance, Polymorphism, Encapsulation & More!</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OOP-Expert-brightgreen?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Live-success?style=flat-square"/>
+<br/><br/>
+<a href="https://github.com/MatadeenYadav26/OOPs">📂 View Repository</a>
+</div>
+</details>
+
+<!-- Project 2 -->
+<details>
+<summary><b>📝 Student Registration System</b></summary>
+<br/>
+<div align="center">
+<a href="https://matadeenyadav26.github.io/Student_Registration_System/">
+<img src="https://img.shields.io/badge/🔴_LIVE_PREVIEW-Click_Here-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<br/><br/>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<br/>
+<p><b>Complete Student Management Platform:</b> Registration, Records & Database Management!</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Live-success?style=flat-square"/>
+<br/><br/>
+<a href="https://github.com/MatadeenYadav26/Student_Registration_System">📂 View Repository</a>
+</div>
+</details>
+
+<!-- Project 3 -->
+<details>
+<summary><b>📦 Python Modules & Packages</b></summary>
+<br/>
+<div align="center">
+<a href="https://matadeenyadav26.github.io/Modules_and_Packages/">
+<img src="https://img.shields.io/badge/🔴_LIVE_PREVIEW-Click_Here-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<br/><br/>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<br/>
+<p><b>Python Package Architecture:</b> Deep dive into modular programming & code organization!</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Modules-Advanced-yellow?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Live-success?style=flat-square"/>
+<br/><br/>
+<a href="https://github.com/MatadeenYadav26/Modules_and_Packages">📂 View Repository</a>
+</div>
+</details>
+
+<!-- Project 4 -->
+<details>
+<summary><b>📁 File & Folder Management System</b></summary>
+<br/>
+<div align="center">
+<a href="https://matadeenyadav26.github.io/File_Folder_Handling_Project/">
+<img src="https://img.shields.io/badge/🔴_LIVE_PREVIEW-Click_Here-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<br/><br/>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<br/>
+<p><b>Automated File Handler:</b> Smart file management with Python's OS module & automation!</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Automation-Pro-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Live-success?style=flat-square"/>
+<br/><br/>
+<a href="https://github.com/MatadeenYadav26/File_Folder_Handling_Project">📂 View Repository</a>
+</div>
+</details>
+
+<!-- Project 5 -->
+<details>
+<summary><b>⚠️ Exception & File Handling Master</b></summary>
+<br/>
+<div align="center">
+<a href="https://matadeenyadav26.github.io/exception_and_file_handling.py/">
+<img src="https://img.shields.io/badge/🔴_LIVE_PREVIEW-Click_Here-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<br/><br/>
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+<br/>
+<p><b>Error Handling Expert:</b> Complete guide to Python exceptions, try-catch & file operations!</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Error_Handling-Master-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Live-success?style=flat-square"/>
+<br/><br/>
+<a href="https://github.com/MatadeenYadav26/exception_and_file_handling.py">📂 View Repository</a>
+</div>
+</details>
+
+<!-- Project 6 -->
+<details>
+<summary><b>🚀 JavaScript Fundamentals</b></summary>
+<br/>
+<div align="center">
+<a href="https://matadeenyadav26.github.io/Basics-of-javascript/">
+<img src="https://img.shields.io/badge/🔴_LIVE_PREVIEW-Click_Here-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<br/><br/>
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<br/>
+<p><b>Modern JavaScript Tutorial:</b> Learn ES6+, async/await, promises & interactive examples!</p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/ES6+-Modern-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Live-success?style=flat-square"/>
+<br/><br/>
+<a href="https://github.com/MatadeenYadav26/Basics-of-javascript">📂 View Repository</a>
+</div>
+</details>
+
+<!-- Project 7 -->
+<details>
+<summary><b>🎯 JavaScript Introduction</b></summary>
+<br/>
+<div align="center">
+<a href="https://matadeenyadav26.github.io/Intro_to_JS/">
+<img src="https://img.shields.io/badge/🔴_LIVE_PREVIEW-Click_Here-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<br/><br/>
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
+<br/>
+<p><b>Getting Started with JS:</b> Beginner-friendly JavaScript course with hands-on projects!</p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Beginner-Friendly-lightblue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Live-success?style=flat-square"/>
+<br/><br/>
+<a href="https://github.com/MatadeenYadav26/Intro_to_JS">📂 View Repository</a>
+</div>
+</details>
+
+<div align="center">
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🎯 WHAT SETS ME APART
+
+<table>
 <tr>
-<td width="33%" align="center">
-  
-**🎯 Learning Never Stops**  
-Constantly exploring new technologies and pushing boundaries!
-
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100"/>
+<br/><b>🚀 Fast Learner</b>
+<br/><i>Quickly adapting to new technologies</i>
 </td>
-<td width="33%" align="center">
-  
-**💪 Code Quality Matters**  
-Writing clean, maintainable, and scalable code is my priority!
-
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="100"/>
+<br/><b>💡 Problem Solver</b>
+<br/><i>Creative solutions to complex challenges</i>
 </td>
-<td width="33%" align="center">
-  
-**🤝 Team Player**  
-Collaboration and knowledge sharing make us all better!
-
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216121919-60befa4d-c9db-426d-a3f9-780c44b61f0f.png" width="100"/>
+<br/><b>🤝 Team Player</b>
+<br/><i>Collaboration makes us better</i>
 </td>
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<div align="center">
+## 🎮 FUN ZONE
 
-## 🏆 Achievements & Badges
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
 
-![](https://github-profile-trophy.vercel.app/?username=MatadeenYadav26&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)
+<br/>
 
-### 📈 Contribution Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatadeenYadav26&theme=radical)
+### 🎲 Joke of the Day
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
 
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
+## 🌐 CONNECT WITH ME
 
-<div align="center">
+<a href="https://linkedin.com/in/matadeen-yadav"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/matadeenyadav"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://instagram.com/matadeenyadav"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:matadeenyadav202@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://matadeenyadav26.github.io"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
 
-## 🎯 Current Focus Areas
+<br/><br/>
 
-```javascript
-const currentFocus = {
-  learning: ["React.js", "Node.js", "TypeScript", "MongoDB"],
-  building: ["Full Stack Web Apps", "REST APIs", "Portfolio Projects"],
-  goals: ["Open Source Contribution", "Building SaaS Products", "Technical Writing"],
-  seeking: ["Collaboration Opportunities", "Exciting Projects", "Tech Communities"]
-};
+### 💬 Let's Talk Tech!
+`Full Stack Development` • `Python` • `JavaScript` • `React` • `Problem Solving` • `Open Source`
 
-console.log("Let's connect and build something amazing! 🚀");
-```
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-</div>
+## ☕ SUPPORT MY WORK
 
----
+<a href="https://www.buymeacoffee.com/matadeenyadav">
+<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=matadeenyadav&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
+</a>
 
-<div align="center">
+<br/><br/>
 
-## 🌐 Connect With Me
+### 👀 Profile Views
+<img src="https://komarev.com/ghpvc/?username=MatadeenYadav26&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matadeen-yadav)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/matadeenyadav)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF006E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://matadeenyadav26.github.io)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matadeenyadav@example.com)
-
-### 💬 Let's Talk About
-`Web Development` `Python` `JavaScript` `Open Source` `Tech Innovations` `Problem Solving`
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
 
----
+<!-- Animated Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=150&section=footer&text=Thanks%20For%20Visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=65"/>
 
 <div align="center">
 
-## 💝 Support My Work
-
-If you like what I do, consider buying me a coffee! ☕
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/matadeenyadav)
-
-</div>
-
----
-
-<div align="center">
-
-### 🎨 Fun Fact Zone
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-### ⚡ Profile Views Counter
-![](https://komarev.com/ghpvc/?username=MatadeenYadav26&label=Profile%20Views&color=FF006E&style=for-the-badge)
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20For%20Visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
-
-**Made with 💖 and lots of ☕ by Matadeen Yadav**
+**⭐ From [MatadeenYadav26](https://github.com/MatadeenYadav26) with 💖**
 
 </div>
