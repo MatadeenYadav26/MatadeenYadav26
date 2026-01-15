@@ -92,36 +92,52 @@ const matadeen = {
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010"/>
 </p>
 
+<br/>
+
+<!-- Skill Icons -->
+<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,cpp,c,flask,django,tailwind,bootstrap,mysql,mongodb,postgres,git,github,docker,vscode,linux,postman,figma&perline=11" />
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📊 INSANE GITHUB STATS
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MatadeenYadav26&custom_title=Matadeen's%20Contribution%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" width="100%"/>
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MatadeenYadav26&custom_title=🔥%20Matadeen's%20Contribution%20Graph%20🔥&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area_color=F85D7F&title_color=F85D7F&area=true" width="100%" alt="Activity Graph"/>
 
 <br/>
 
-<table align="center" width="100%">
-<tr>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=MatadeenYadav26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_radius=10" width="100%"/>
-</td>
-<td align="center" width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MatadeenYadav26&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&border_radius=10" width="100%"/>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatadeenYadav26&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8&border_radius=10" width="100%"/>
-</td>
-<td align="center" width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MatadeenYadav26&theme=tokyonight&utcOffset=5.5" width="100%"/>
-</td>
-</tr>
-</table>
+<!-- Main Stats Cards -->
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MatadeenYadav26&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MatadeenYadav26&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&border_radius=10" alt="GitHub Streak" />
+</p>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=MatadeenYadav26&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=8&rank=-C,-?" width="100%"/>
+<!-- Language Stats -->
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatadeenYadav26&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8&border_radius=10" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=MatadeenYadav26&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&border_radius=10&layout=compact" alt="Coding Time" />
+</p>
+
+<br/>
+
+<!-- Detailed Stats -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatadeenYadav26&theme=radical" width="100%" alt="Profile Details"/>
+
+<br/>
+
+<!-- Trophy Showcase -->
+<img src="https://github-profile-trophy.vercel.app/?username=MatadeenYadav26&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7&rank=-C,-?" width="100%" alt="GitHub Trophies"/>
+
+<br/>
+
+<!-- Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatadeenYadav26/MatadeenYadav26/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatadeenYadav26/MatadeenYadav26/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MatadeenYadav26/MatadeenYadav26/output/github-contribution-grid-snake.svg">
+</picture>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -299,12 +315,12 @@ const matadeen = {
 
 ## 🎮 FUN ZONE
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote"/>
 
 <br/>
 
 ### 🎲 Joke of the Day
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical&qColor=%23F85D7F&aColor=%23bbdb51" alt="Jokes Card" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -332,7 +348,7 @@ const matadeen = {
 <br/><br/>
 
 ### 👀 Profile Views
-<img src="https://komarev.com/ghpvc/?username=MatadeenYadav26&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=MatadeenYadav26&label=PROFILE+VIEWS&color=F85D7F&style=for-the-badge" alt="Profile Views"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
